@@ -10,7 +10,7 @@ This WordPress plugin provides a customizable image always showing the last post
 
 This WordPress plugin provides a customizable image always showing the last posts of your blog. You can use it as signature in communities for example.
 After activation, go to the menu "Manage" of your WordPress adminpanel and than to "LastPostsImage". There you will get your public link, and can configure the color, size and number of posts to display.</
-
+ 
 Plugin Website: http://www.rene-ade.de/inhalte/wordpress-plugin-lastpostsimage.html
 Comments are welcome! And of course, I also like presents of my Amazone-Wishlist or paypal donations to finance my website. :-)
 
