@@ -2,7 +2,7 @@
 //-----------------------------------------------------------------------------
 /*
 Plugin Name: Last Posts Image
-Version: 0.1
+Version: 0.1.1
 Plugin URI: http://www.rene-ade.de/inhalte/wordpress-plugin-lastpostsimage.html
 Description: This WordPress plugin provides a image always showing the last posts of your blog to use it as signature in communities for example. Go to LastPostsImage in the manage-menu of your adminpanel to customize the picture and get your public link. 
 Author: Ren&eacute; Ade
@@ -188,7 +188,7 @@ function lpi_submenupage() {
     echo '<lable>'._e('HTML').'<br>'.'<textarea rows="5" cols="50">'.$code.'</textarea>'.'</lable>'.'<br>';
     $code = '[IMG]'.$image.'[/IMG]';
     if( $_POST['lpi-addurl'] )
-      $code = '[ULR='.$home.']'.$code.'[/URL]';
+      $code = '[URL='.$home.']'.$code.'[/URL]';
     echo '<lable>'._e('BB-Code').'<br>'.'<textarea rows="5" cols="50">'.$code.'</textarea>'.'</lable>'.'<br>';
   }
   
