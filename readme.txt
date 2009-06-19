@@ -3,6 +3,7 @@ Contributors: reneade
 Donate link: http://www.rene-ade.de/stichwoerter/spenden
 Tags: images, posts, post, plugin, statistics, feed, image, integration, link, preview
 Stable tag: trunk
+Tested up to: 2.99999
 
 This WordPress plugin provides a customizable image always showing the last posts of your blog. You can use it as signature in communities for example.
 
